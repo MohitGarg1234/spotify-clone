@@ -25,7 +25,7 @@ function Sidebar(){
                 </ul>
             </div>
         </div>
-        <div className="p-2 sidePlay" >
+        <div className="p-2 sidePlay">
             <div className='abcd' >
                 <ol className="nav nav-pills flex-column mb-auto">
                     <li className="nav-item my-3">

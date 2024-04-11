@@ -135,7 +135,7 @@ li.scroll {
   /* width: 100vw; */
   margin-top: 10px;
   margin-bottom: 60px;
-  height: 100vh;
+  height: 100%;
   overflow-y: overlay;
   flex: 0.8;
   margin-left: 360px;
