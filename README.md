@@ -10,6 +10,7 @@ Spotify API
 
 # Screenshot
 Connect With Spotify
+
 ![image](https://github.com/MohitGarg1234/spotify-clone-ReactJs/assets/92513931/5c2628ee-bdbe-40f3-a7ee-5f732a0f92b9)
 
 Home Page After Successfull Connection with Spotify
