@@ -1,5 +1,5 @@
 # Spotify Clone : A clone to Spotify Music.
-
+A basic Clone to Spotify made using Spotify API to fetch user data.
 ## Tech Stack
 ```
 ReactJS
